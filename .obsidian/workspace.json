@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "f23a3e221bb80524",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8b48cce49f7489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473b960634f8aac4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22b9796a25df41c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3421384c0240a0ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08729f399cf18a91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "bcc945d5686b6088",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#done",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5955ef4067712001",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "452aad4c9f71ac04",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8487edd338d52fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6688051549c5fff6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "888bf7a7e95f7ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "190a596055fe6ab5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "55e97a81f47cae17",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "2054e4f82cda382b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": "Склад"
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "282b7d3fd97487a4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "473b960634f8aac4",
+  "lastOpenFiles": [
+    "Как НЕ СОБРАТЬ ПК в 2026 году.md",
+    "Е Шуньгуан.md",
+    "Чжао.md",
+    "Мои отряды.md",
+    "Эфирный.md",
+    "Main/Наньгун Юй.md",
+    "Цзюй Фуфу.md",
+    "Main/YouTube-канал.md",
+    "Main/Gemini AI.md",
+    "VPN.md",
+    "Main/Блокировки РКН.md",
+    "Main/Склад событий.md",
+    "2026-Май.md",
+    "4 семестр ГД.md",
+    "Main/Академия ТОП.md",
+    "2 курс ГД.md",
+    "Main/Бакалавр Графический дизайн.md",
+    "Main/Образование.md",
+    "Main/Портфолио.md",
+    "Main/Работа.md",
+    "Main/Центр управления.md",
+    "Цвет и свет в дизайне.md",
+    "Композиция плаката.md",
+    "КОДДППП.md",
+    "Композиция книги.md",
+    "Мой ноутбук.md",
+    "Без названия.canvas",
+    "Main/Pasted image 20260406144315.png"
+  ]
+}
