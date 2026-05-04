@@ -11,10 +11,14 @@
             "id": "473b960634f8aac4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Как НЕ СОБРАТЬ ПК в 2026 году.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как НЕ СОБРАТЬ ПК в 2026 году"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Как НЕ СОБРАТЬ ПК в 2026 году.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Как НЕ СОБРАТЬ ПК в 2026 году"
             }
           },
           {
@@ -188,6 +193,7 @@
   },
   "active": "473b960634f8aac4",
   "lastOpenFiles": [
+    "Как НЕ СОБРАТЬ ПК в 2026 году.md",
     "Девушка.md",
     "Японка.md",
     "Мой ПК.md",
@@ -213,7 +219,6 @@
     "Склад событий/2026-04-03.md",
     "Чудо в Endfield.md",
     "Сигна на Тан-Тан.md",
-    "Склад событий/2026-03-29.md",
     "Снимок экрана 2026-04-06 144256.png",
     "Pasted image 20260406144315.png",
     "Склад событий",
