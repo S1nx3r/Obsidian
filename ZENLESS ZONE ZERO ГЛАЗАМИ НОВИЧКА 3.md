@@ -1,5 +1,5 @@
 Игра от [[HoyoVerse]]
-[[Main/Zenless Zone Zero]]
+[[Zenless Zone Zero]]
 #done 
 # Взгляд на игру с другой стороны после перерыва
 
