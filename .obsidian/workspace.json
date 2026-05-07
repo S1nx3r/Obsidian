@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "473b960634f8aac4",
+            "id": "3de6f378dd9f1fbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как НЕ СОБРАТЬ ПК в 2026 году.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Как НЕ СОБРАТЬ ПК в 2026 году"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как НЕ СОБРАТЬ ПК в 2026 году.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Как НЕ СОБРАТЬ ПК в 2026 году"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -191,10 +186,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "473b960634f8aac4",
+  "active": "3de6f378dd9f1fbe",
   "lastOpenFiles": [
-    "КАК Я ПОПАЛ В ARKNIGHTS ENDFIELD.md",
+    "Эфирный.md",
+    "3 семестр ГД.md",
+    "1 курс ГД.md",
+    "Как НЕ собрать ПК в 2026 году ревайнд.md",
     "Как НЕ СОБРАТЬ ПК в 2026 году.md",
+    "КАК Я ПОПАЛ В ARKNIGHTS ENDFIELD.md",
     "2 семестр ГД.md",
     "Мой ПК.md",
     "YouTube-канал.md",
@@ -213,15 +212,11 @@
     "Склад событий/2026-Май/2026-05-01.md",
     "Склад событий/2026-Март",
     "Склад событий/2026-Май",
-    "Без названия.md",
     "Склад событий/2026-Апрель",
     "Люсия.md",
     "Склад событий/2026-Май/2026-05-06.md",
     "Склад событий/2026-Май/2026-Май.md",
     "ZENLESS ZONE ZERO ГЛАЗАМИ НОВИЧКА В 2026 ГОДУ.md",
-    "ZENLESS ZONE ZERO ГЛАЗАМИ НОВИЧКА 3.md",
-    "Игры.md",
-    "ZENLESS ZONE ZERO ГЛАЗАМИ НОВИЧКА 2.md",
     "Main",
     "Снимок экрана 2026-04-06 144256.png",
     "Pasted image 20260406144315.png",
