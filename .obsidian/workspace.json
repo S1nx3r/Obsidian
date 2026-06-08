@@ -11,10 +11,14 @@
             "id": "3de6f378dd9f1fbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "ПРОМЫШЛЕННЫЙ ДИЗАЙНЕР ВПЕРВЫЕ СОБИРАЕТ ПК.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ПРОМЫШЛЕННЫЙ ДИЗАЙНЕР ВПЕРВЫЕ СОБИРАЕТ ПК"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ПРОМЫШЛЕННЫЙ ДИЗАЙНЕР ВПЕРВЫЕ СОБИРАЕТ ПК.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для ПРОМЫШЛЕННЫЙ ДИЗАЙНЕР ВПЕРВЫЕ СОБИРАЕТ ПК"
             }
           },
           {
@@ -189,6 +193,7 @@
   },
   "active": "3de6f378dd9f1fbe",
   "lastOpenFiles": [
+    "КОДДППП.md",
     "ПРОМЫШЛЕННЫЙ ДИЗАЙНЕР ВПЕРВЫЕ СОБИРАЕТ ПК.md",
     "YouTube-канал.md",
     "Хобби.md",
@@ -198,7 +203,6 @@
     "Доп вентиляторы.md",
     "Вентиляторы XPG.md",
     "ZENLESS ZONE ZERO ГЛАЗАМИ НОВИЧКА 4 ENDGAME.md",
-    "КОДДППП.md",
     "Дрон в Королёве.md",
     "Без названия.canvas",
     "Как НЕ собрать ПК в 2026 году ревайнд.md",
