@@ -11,7 +11,7 @@
       "query": "tag:#fail  ",
       "color": {
         "a": 1,
-        "rgb": 12713984
+        "rgb": 16711680
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 6.76715176715177,
   "linkStrength": 1,
   "linkDistance": 80,
-  "scale": 0.535979599622497,
+  "scale": 0.7514342322276205,
   "close": false
 }
