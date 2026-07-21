@@ -1,2 +1,2 @@
-[[Arknights]]
+[[Zenless Zone Zero]]
 #done 
