@@ -11,10 +11,14 @@
             "id": "3de6f378dd9f1fbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Галочка на Skport.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Галочка на Skport"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Галочка на Skport.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Галочка на Skport"
             }
           },
           {
@@ -198,35 +204,35 @@
   },
   "active": "3de6f378dd9f1fbe",
   "lastOpenFiles": [
+    "ВК Музыка.md",
+    "Яндекс Музыка.md",
+    "Улин.md",
+    "Заводы.md",
+    "Долина IV.md",
+    "Arknights Endfield.md",
+    "Языковые модели.md",
+    "LM Studio.md",
+    "КОМПАС 3D.md",
+    "Ключевые программы.md",
+    "Minecraft.md",
+    "TLauncher.md",
+    "Склад событий/2026/2026-Май/2026-05-17.md",
+    "Без названия.canvas",
+    "Склад событий/2026/2026-Июнь/2026-06-22.md",
+    "Склад событий/2026/2026-Июнь/2026-06-17.md",
+    "Склад событий/2026/2026-Июль/2026-Июль.md",
+    "Галочка на Skport.md",
+    "20-07-2026.md",
+    "Arknights.md",
+    "Skport.md",
     "Бакалавр Графический дизайн.md",
     "Учёба/2 курс ГД.md",
     "Учёба/3 семестр ГД.md",
     "Учёба/4 семестр ГД.md",
     "Учёба/1 курс ГД.md",
     "Учёба/1 семестр ГД.md",
-    "Учёба/2 семестр ГД.md",
-    "Графический дизайн.md",
-    "UltimaVPN.md",
-    "Мой ПК.md",
-    "Кошелёк.md",
-    "Накопительный счёт.md",
-    "Настройки Nvidia.md",
-    "Склад событий/2026/2026-Июль/02-07-2026.md",
-    "Wallpaper Engine.md",
-    "Склад событий/2026/2026-Июль/21-07-2026.md",
-    "Продажа памяти Patriot 5 2x16.md",
-    "Склад событий/2026/2026-Июль/2026-Июль.md",
-    "ENDFIELD 4K GILBERTA CHILL.md",
-    "ENFIELD 4K GILBERTA IN CLOUDS.md",
-    "Мой ноутбук.md",
-    "ОЗУ Patriot Viper Memory 5.md",
-    "Камиль.md",
-    "Мои отряды Endfield.md",
-    "Росси.md",
-    "Премудрость.md",
     "Склад событий/2020",
     "Склад событий/2026/2026-Июль",
-    "Без названия.canvas",
     "Учёба",
     "Склад событий/2026",
     "Склад событий/2026/2026-Июнь",
