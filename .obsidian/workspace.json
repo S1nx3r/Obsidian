@@ -11,14 +11,10 @@
             "id": "3de6f378dd9f1fbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ПП 4 сем.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ПП 4 сем"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПП 4 сем.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,9 +198,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08729f399cf18a91",
+  "active": "3de6f378dd9f1fbe",
   "lastOpenFiles": [
+    "Наушники ASUS ROG DELTA II.md",
+    "КОМПАС 3D.md",
+    "Мой ПК.md",
+    "Наушники.md",
     "Склад событий/2026/2026-Август/2026-Август.md",
+    "Склад событий/2026/2026-Август/16-08-2026.md",
+    "ENFIELD LIINO 4K.md",
+    "Wallpaper Engine.md",
+    "Склад событий/2026/2026-Август/28-08-2026.md",
+    "Феня.md",
+    "Круг общения.md",
+    "ПП 4 сем.md",
     "Склад событий/2026/2026-Август/22-08-2026.md",
     "Илон Маск над Москвой.md",
     "Лиино.md",
@@ -221,18 +227,7 @@
     "StoneBlock 4.md",
     "ПРОМЫШЛЕННЫЙ ДИЗАЙНЕР ВПЕРВЫЕ СОБИРАЕТ ПК.md",
     "NTE.md",
-    "Ollama.md",
     "Без названия.canvas",
-    "Эмиракл.md",
-    "Бывший круг общения.md",
-    "Круг общения.md",
-    "Анастасия Владимирова.md",
-    "ZENLESS ZONE ZERO ГЛАЗАМИ НОВИЧКА 4 ENDGAME.md",
-    "ENDFIELD SI 2K.md",
-    "Склад событий/2026/2026.md",
-    "Wallpaper Engine.md",
-    "Игры.md",
-    "NTE LACRIMOSA IN MARKET.md",
     "Склад событий/2020",
     "Склад событий/2026/2026-Июль",
     "Учёба",
