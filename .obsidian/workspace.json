@@ -11,10 +11,14 @@
             "id": "3de6f378dd9f1fbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Феня.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Феня"
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Феня.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,6 +205,7 @@
   },
   "active": "3de6f378dd9f1fbe",
   "lastOpenFiles": [
+    "Круг общения.md",
     "Квадробинг.md",
     "Эстетика вкуса.md",
     "1.md",
@@ -226,7 +232,6 @@
     "Склад событий/2026/2026-Сентябрь",
     "Наушники ASUS ROG DELTA II.md",
     "КОМПАС 3D.md",
-    "Мой ПК.md",
     "Склад событий/2026/2026-Август",
     "Без названия.canvas",
     "Склад событий/2020",
