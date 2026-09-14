@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:\"Склад событий\"  ",
   "showTags": false,
   "showAttachments": false,
@@ -53,6 +53,6 @@
   "repelStrength": 8.0977130977131,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8854989543149808,
+  "scale": 0.8854989543149773,
   "close": false
 }
