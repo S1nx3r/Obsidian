@@ -1,3 +1,3 @@
 #done 
 [[Arknights Endfield]]
-[[02-08-2026]] 
+[[2026-08-02]] 

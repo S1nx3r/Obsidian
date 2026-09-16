@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 7871210
       }
+    },
+    {
+      "query": "path:\"Склад событий\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3389926
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 8.0977130977131,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8854989543150176,
+  "scale": 0.3823010968769777,
   "close": true
 }
