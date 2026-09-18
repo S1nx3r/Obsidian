@@ -1,5 +1,3 @@
-[[CurseForge]] - очень удобный лаунчер для лицензионного майнкрафта.
-[[TLauncher]] - 
 
 [[Bedrock Edition]] 
 [[Java Edition]] 
