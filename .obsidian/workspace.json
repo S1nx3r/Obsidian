@@ -11,10 +11,14 @@
             "id": "fd52ff9f8e4ed8da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "VALORANT ГЛАЗАМИ НОВИЧКА В 2026 ГОДУ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VALORANT ГЛАЗАМИ НОВИЧКА В 2026 ГОДУ"
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VALORANT ГЛАЗАМИ НОВИЧКА В 2026 ГОДУ.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,6 +205,8 @@
   },
   "active": "fd52ff9f8e4ed8da",
   "lastOpenFiles": [
+    "YouTube-канал.md",
+    "Игры.md",
     "Эталон девушки.md",
     "Аня.md",
     "Пётр Колобанов.md",
@@ -224,8 +231,6 @@
     "Мышь ASUS ROG P709.md",
     "Мой ПК.md",
     "Склад событий/2026/2026-Апрель/2026-04-02.md",
-    "Склад событий/2026/2026-Апрель/2026-Апрель.md",
-    "Вентиляторы XPG.md",
     "Без названия.canvas",
     "Склад событий/2028",
     "Склад событий/2027",
