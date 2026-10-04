@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"Склад событий\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -60,6 +60,6 @@
   "repelStrength": 8.02865151043289,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7514342322276162,
+  "scale": 0.8854989543150308,
   "close": false
 }
