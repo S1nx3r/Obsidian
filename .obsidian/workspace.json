@@ -25,10 +25,14 @@
             "id": "ae7d058ec7b253b0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "VALORANT ГЛАЗАМИ НОВИЧКА В 2026 ГОДУ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VALORANT ГЛАЗАМИ НОВИЧКА В 2026 ГОДУ"
             }
           }
         ],
@@ -107,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VALORANT ГЛАЗАМИ НОВИЧКА В 2026 ГОДУ.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -215,6 +220,8 @@
   },
   "active": "ae7d058ec7b253b0",
   "lastOpenFiles": [
+    "YouTube-канал.md",
+    "RUST ГЛАЗАМИ НОВИЧКА.md",
     "ENDFIELD 4K TYPHOEUS POLAR NIGHT.md",
     "2026-10-04.md",
     "Склад событий/2026/2026-Октябрь/2026-Октябрь.md",
@@ -225,7 +232,6 @@
     "Аня Воронкина.md",
     "Круг общения.md",
     "VALORANT ГЛАЗАМИ НОВИЧКА В 2026 ГОДУ.md",
-    "YouTube-канал.md",
     "Игры.md",
     "Эталон девушки.md",
     "Пётр Колобанов.md",
@@ -241,7 +247,6 @@
     "Кошелёк.md",
     "Мой ноутбук.md",
     "Периферия.md",
-    "Наушники ASUS ROG DELTA II.md",
     "Без названия.canvas",
     "Склад событий/2028",
     "Склад событий/2027",
